@@ -62,11 +62,28 @@
         items: [{
           icon: 'bubble_chart',
           title: 'Home'
-        }],
+        },
+        {
+          icon: 'bubble_chart',
+          title: 'Blog'
+        },
+        {
+          icon: 'bubble_chart',
+          title: 'Autor'
+        },
+        {
+          icon: 'bubble_chart',
+          title: 'Post'
+        },
+        {
+          icon: 'bubble_chart',
+          title: 'Tag'
+        }
+        ],
         miniVariant: false,
         right: true,
         rightDrawer: false,
-        title: 'Blog'
+        title: 'Blog_Vuetifly'
       }
     },
     created () {
